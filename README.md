@@ -229,3 +229,5 @@ are conditional on the entered shock and the fixed values of other categories.
 
 See the official [Community Cloud deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy)
 and [dependency layout](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/app-dependencies).
+#   M o r o c c o - F u n d G u a r d - A I  
+ 
