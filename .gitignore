@@ -1,0 +1,30 @@
+.streamlit/secrets.toml
+
+
+# Credentials and local environment
+/.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+credentials*.json
+service-account*.json
+service_account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+.netrc
+
+# Dependencies and Python caches
+.venv/
+venv/
+env/
+virtualenv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+htmlcov/
